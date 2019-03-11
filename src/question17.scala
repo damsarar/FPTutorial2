@@ -1,3 +1,5 @@
+//How many rows are in the theater
+
 object question17 {
   def main(args : Array[String]){
     var seatsperrow:Int=19

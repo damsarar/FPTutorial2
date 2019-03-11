@@ -1,3 +1,5 @@
+//Cyclist
+
 object question6 {
   def main(args : Array[String]){
     var s=60

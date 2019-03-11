@@ -1,3 +1,5 @@
+//marathon in miles and yards to kilometers
+
 object question4 {
   def main(args: Array[String]) {
     var miles:Int =26

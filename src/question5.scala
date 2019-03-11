@@ -1,3 +1,5 @@
+//Fahrenheit to Celsius
+
 object question5 {
   def main(args: Array[String]) {
     var far:Double=100

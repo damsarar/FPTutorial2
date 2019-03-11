@@ -1,3 +1,5 @@
+//Differenet flags
+
 object question8 {
   def main(args : Array[String]){
     var onecolor:Integer=7

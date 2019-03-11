@@ -1,3 +1,5 @@
+//Magic number
+
 object question20 {
   def main(args : Array[String]){
     var x:Double=1

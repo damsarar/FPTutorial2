@@ -1,3 +1,5 @@
+//Gagana's lottery
+
 object question13 {
   def main(args : Array[String]){
     var p1:Double=973/687

@@ -1,3 +1,5 @@
+//Height of the tree
+
 object question19 {
   def main(args : Array[String]){
     var h:Double=8.32/0.64
