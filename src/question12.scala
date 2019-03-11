@@ -1,5 +1,6 @@
+//Calculate the area of regular pentagon
+
 import scala.math.sqrt
-import scala.math.pow
 
 object question12 {
   def main(args : Array[String]){

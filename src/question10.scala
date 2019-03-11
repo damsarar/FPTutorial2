@@ -1,3 +1,5 @@
+//Wires left
+
 object question10 {
   def main(args : Array[String]){
     var full=53

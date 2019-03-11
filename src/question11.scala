@@ -1,3 +1,5 @@
+//Calculate perimeter and area of a triangle ABC
+
 import scala.math.sqrt
 import scala.math.pow
 
