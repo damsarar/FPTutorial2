@@ -13,7 +13,7 @@ object Dem{
         var arr2 = Array(8,9,10,11)
 
         var arr3 = concat(arr1, arr2)
-
+        //printa all the array elements
         for(x<- arr3)
         {
             println(x)
