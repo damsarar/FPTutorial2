@@ -18,6 +18,13 @@ object Dem{
         {
             println(x)
         }
+
+        //array with range
+
+        var myList1 = range(10, 20, 2)
+        for ( x <- myList1 ) {
+         print( " " + x )
+        }
     }
 
 }
